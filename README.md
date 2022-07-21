@@ -1,4 +1,4 @@
-# pt-catan
+# py-catan
 
 Same project as https://github.com/jlangson/clj-catan but in python
 
